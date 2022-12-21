@@ -1,0 +1,35 @@
+$spaceamounts: (1, 2, 3, 4, 5);
+
+@each $space in $spaceamounts {
+  .m-#{$space} {
+    margin: set-spacing(#{$space});
+  }
+  .mt-#{$space} {
+    margin-top: set-spacing(#{$space});
+  }
+  .mb-#{$space} {
+    margin-bottom: set-spacing(#{$space});
+  }
+  .ml-#{$space} {
+    margin-left: set-spacing(#{$space});
+  }
+  .mr-#{$space} {
+    margin-right: set-spacing(#{$space});
+  }
+
+  .p-#{$space} {
+    padding: set-spacing(#{$space});
+  }
+  .pt-#{$space} {
+    padding-top: set-spacing(#{$space});
+  }
+  .pb-#{$space} {
+    padding-bottom: set-spacing(#{$space});
+  }
+  .pr-#{$space} {
+    padding-right: set-spacing(#{$space});
+  }
+  .pl-#{$space} {
+    padding-left: set-spacing(#{$space});
+  }
+}
