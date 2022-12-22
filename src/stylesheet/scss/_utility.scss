@@ -1,6 +1,6 @@
-$spaceamounts: (1, 2, 3, 4, 5);
+$spacetype: (1, 2, 3, 4, 5);
 
-@each $space in $spaceamounts {
+@each $space in $spacetype {
   .m-#{$space} {
     margin: set-spacing(#{$space});
   }

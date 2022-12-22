@@ -1,11 +1,9 @@
-import "../stylesheet/css/style.min.css";
-
 const Home = () => {
   return (
-    <div>
+    <div className="mt-5">
       Home
       <br />
-      <button className="btn-success">Button</button>
+      <button className="btn-danger">Button</button>
     </div>
   );
 };
