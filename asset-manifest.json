@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Handicraft/static/css/main.40bba5c6.css",
+    "main.js": "/Handicraft/static/js/main.f6942c53.js",
+    "index.html": "/Handicraft/index.html",
+    "main.40bba5c6.css.map": "/Handicraft/static/css/main.40bba5c6.css.map",
+    "main.f6942c53.js.map": "/Handicraft/static/js/main.f6942c53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40bba5c6.css",
+    "static/js/main.f6942c53.js"
+  ]
+}
