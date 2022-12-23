@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Handicraft/static/css/main.40bba5c6.css",
-    "main.js": "/Handicraft/static/js/main.f6942c53.js",
-    "index.html": "/Handicraft/index.html",
-    "main.40bba5c6.css.map": "/Handicraft/static/css/main.40bba5c6.css.map",
-    "main.f6942c53.js.map": "/Handicraft/static/js/main.f6942c53.js.map"
+    "main.css": "/static/css/main.40bba5c6.css",
+    "main.js": "/static/js/main.f6942c53.js",
+    "index.html": "/index.html",
+    "main.40bba5c6.css.map": "/static/css/main.40bba5c6.css.map",
+    "main.f6942c53.js.map": "/static/js/main.f6942c53.js.map"
   },
   "entrypoints": [
     "static/css/main.40bba5c6.css",
